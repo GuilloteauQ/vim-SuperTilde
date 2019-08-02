@@ -6,7 +6,7 @@ A Vim Plugin expanding the power of '~'
 
 The basic ``~`` key of Vim changes the case of the character under the cursor (uppercase to lowercase, or lower to upper)
 
-The goal of this plugin is to expand this functionnality to other symbols than letter, that belong in a pair.
+The goal of this plugin is to expand this functionnality to other symbols than letters, that belong in a pair.
 
 For example, ``(`` is paired to ``)`` in the same way that ``a`` is paired with ``A``.
 
