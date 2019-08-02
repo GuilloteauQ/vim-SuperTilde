@@ -2,6 +2,8 @@
 
 A Vim Plugin expanding the power of '~'
 
+[![asciicast](https://asciinema.org/a/omiGyEQdyQXL2InvQ4ydeWOZc.svg)](https://asciinema.org/a/omiGyEQdyQXL2InvQ4ydeWOZc)
+
 ## Goal
 
 The basic ``~`` key of Vim changes the case of the character under the cursor (uppercase to lowercase, or lower to upper)
